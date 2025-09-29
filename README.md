@@ -6,9 +6,9 @@ The purpose is to allow you to use any display you desire to display art from pu
 
 Currently only the metropolitan is supported and its still in the early (and very bare bones) stage 
 ##Roadmap
-Clock, Weather and More pleasing art metadata infomation (toggleable)
-Support for other repositories from other museums and custom repositories
-Support for saving to local storage (for offline option)
-Option to use local files as image source
-Gui
-Remote LAN control
+-Clock, Weather and More pleasing art metadata infomation (toggleable)
+-Support for other repositories from other museums and custom repositories
+-Support for saving to local storage (for offline option)
+-Option to use local files as image source
+-Gui
+-Remote LAN control
