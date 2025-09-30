@@ -1,4 +1,4 @@
-# simple-art-display
+# simple-dynamic-art-display
 A simple system to use any screen as an art display, like the samsung glass
 The purpose is to allow you to use any display you desire to display art from public respositories (e.g The Metropolitan), with full choice as to how you choose to display it
 
