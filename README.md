@@ -4,7 +4,7 @@ The purpose is to allow you to use any display you desire to display art from pu
 
 
 
-> Currently only the metropolitan is supported and its still in the early (and very bare bones) stage 
+> Its still in the early (and very bare bones) stage and currently only the metropolitan is supported 
 ## Roadmap
 * Clock, Weather and More pleasing art metadata infomation (toggleable)
 * Support for other repositories from other museums and custom repositories
